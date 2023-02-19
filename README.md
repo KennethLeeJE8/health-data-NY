@@ -4,4 +4,4 @@ The SQL Code takes raw csv data on Health Inspections on each restaurant in the 
 
 This code was done specifically for the Health Inspection of NY State restaurants. 
 
-The raw csv can be found on the [Food Service Establishment: Last Inspection](https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw) page of the NY Health Data website. 
+The raw csv can be found on the [Food Service Establishment: Last Inspection](https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw) page of the [NY Health Data] (https://health.data.ny.gov/) website. 
