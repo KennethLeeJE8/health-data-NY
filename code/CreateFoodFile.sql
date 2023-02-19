@@ -70,7 +70,7 @@ GO
 
 
 bulk insert Foodfile
-from 'C:\Users\kenne\Downloads\FoodFile\FoodFile.csv'
+from 'C:\Users\kenne\Downloads\Food_Service_Establishment__Last_Inspection.csv'
 with (format = 'csv')
 
 --	References
